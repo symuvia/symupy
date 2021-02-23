@@ -1,10 +1,18 @@
-symupy.utils package
+Utilities package
 ====================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   symupy.utils.postreat
 
 Submodules
 ----------
 
-symupy.utils.configurator module
+Configurator module
 --------------------------------
 
 .. automodule:: symupy.utils.configurator
@@ -12,7 +20,7 @@ symupy.utils.configurator module
    :undoc-members:
    :show-inheritance:
 
-symupy.utils.constants module
+Constants module
 -----------------------------
 
 .. automodule:: symupy.utils.constants
@@ -20,7 +28,7 @@ symupy.utils.constants module
    :undoc-members:
    :show-inheritance:
 
-symupy.utils.exceptions module
+Exceptions module
 ------------------------------
 
 .. automodule:: symupy.utils.exceptions
@@ -28,7 +36,7 @@ symupy.utils.exceptions module
    :undoc-members:
    :show-inheritance:
 
-symupy.utils.parser module
+Parser module
 --------------------------
 
 .. automodule:: symupy.utils.parser
@@ -36,7 +44,7 @@ symupy.utils.parser module
    :undoc-members:
    :show-inheritance:
 
-symupy.utils.tools module
+Tools module
 -------------------------
 
 .. automodule:: symupy.utils.tools
@@ -44,7 +52,7 @@ symupy.utils.tools module
    :undoc-members:
    :show-inheritance:
 
-symupy.utils.xmlgenerator module
+XMLGenerator module
 --------------------------------
 
 .. automodule:: symupy.utils.xmlgenerator
